@@ -15,7 +15,7 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
+    "https://sleepy-ramanujan-48dbff.netlify.app/",
 ]
 
 
